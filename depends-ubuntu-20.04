@@ -1,0 +1,1 @@
+build-essential autoconf autopoint libtool gcc-multilib flex python gawk subversion zlib1g-dev git libncurses5-dev asciidoc device-tree-compiler p7zip-full msmtp libssl-dev texinfo libglib2.0-dev libelf-dev qemu-utils upx-ucl curl gettext
